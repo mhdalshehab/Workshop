@@ -12,4 +12,6 @@ there is cake
 hello  
 hi
   
-I did create more blank lines
+I did create more blank lines  
+
+I've added an extra line!
